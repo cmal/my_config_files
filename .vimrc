@@ -52,7 +52,7 @@ map [t :! rst2html.py % %<.html <CR>
 
 if has("gui_running")
     set lines=25
-    set columns=80
+    set columns=84
     set lazyredraw  "延迟重绘
     set guioptions-=m   "不显示菜单
     set guioptions-=T   "不显示工具栏
